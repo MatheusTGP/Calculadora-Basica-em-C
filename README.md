@@ -7,29 +7,25 @@ Em uma Interface Gráfica facilitando o Acesso mais rápido da calculadora sem p
 De um Terminal ou de IDLE.
 
 # Como Usar?
-Você pode abrir o arquivo **.py** simplesmente pressionando com dois
-Toques para iniciar, o arquivo está configurado na extensão **EXE**, ou seja,
-Você pode abrir e executar o código sem problemas.
+Para você executar você necessita ter algum compilador e interpretado
+Para que o código execute (no Linux (.cpp)), para os usuários de Windows, ele contém em Formato **.exe**,
+Para os usuários Android contém o **.apk**, o código é executado pelo um Terminal do próprio programa.
 
 # Licenças
 O código está totalmente aberto para uso e desenvolvimento, você pode
-Pegar o Arquivo é modificar caso queira adicionar novas funções etc.
+Pegar o Arquivo é modificar caso queira adicionar novas funções.
 
-# Informações
+# Informações do Código
 
-**IDLE**: DevC++ (Latest)
+**IDLE**: Geany (Linux)
 
-**Línguagem**: Full C++
-
-**Sistema**: Windows
+- **Linguagem**: C++
 
 # Alterações recentes
-
-Atualmente não tem Nenhuma alteração no Código!
+Produzindo nova atualização para vários sistemas...
 
 # Plataforma-Suporte
 
-- [x] Windows
-- [x] Android
-- [x] Linux
-- [x] Ubuntu...
+- [x] Windows (.exe)
+- [x] Android (.Apk)
+- [x] Linux (.cpp)
