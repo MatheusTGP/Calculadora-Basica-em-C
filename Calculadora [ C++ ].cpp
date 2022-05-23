@@ -2,7 +2,7 @@
 	GitHub; github.com/MatheusTGamerPro
 	Linguagem; C++
 	compilador; Dev-C++
-	vers„o do codigo: 1.0v
+	vers√£o do codigo: 1.0v
 */
 
 # include <iostream>
@@ -15,8 +15,9 @@ int main (){
 	int value1=0;
 	int value2=0;
 	
-	// Ler Valores do Teclado do usu·rio...
+	// Ler Valores do Teclado do usu√°rio...
 	
+loop:
 	cout << "\n\n" << "[ Calculadora em C++ ]   ";
 	cout << "\n" << "Valor_1: ";
 	cin >> value1;
@@ -24,7 +25,7 @@ int main (){
 	cin >> value2;
 	cout << "\n" <<"Calculando..." << "\n";
 	
-	// Calcular Valores do Teclado (usu·rio)...
+	// Calcular Valores do Teclado (usu√°rio)...
 	
 	int sun1 = value1*value2;
 	int sun2 = value1+value2;
@@ -40,5 +41,5 @@ int main (){
 	
 	// sistema de Loop [ fiz isso na sorte e funcionou :) ]
 	
-	main();
+	goto loop;
 }
